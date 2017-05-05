@@ -1,0 +1,20 @@
+{
+  "name": "purescript-bounded-integers",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.0.0",
+    "purescript-console": "^3.0.0",
+    "purescript-typelevel": "^3.0.0",
+    "purescript-enums": "^3.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0",
+    "purescript-sized-vectors": "^2.2.0",
+    "purescript-test-unit": "^11.0.0"
+  }
+}
